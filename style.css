@@ -123,3 +123,40 @@ font-weight: 800;
 padding-top: 50px;
 
 }
+
+.cupon{
+  color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+
+}
+.last-header{
+  
+}
+.input-type{
+  width: 180px;
+  height: 5px;
+align-items: center;
+border-radius: 8px;
+display: flex;
+
+
+}
+.sub{
+  margin-left: 10px;
+  border-radius: 5px;
+  border: none;
+background: #E55473;
+width: 200px;
+height: 40px;
+ 
+  
+}
+.email{
+  padding-right: 200px;
+  margin-left: 200px;
+  border-color: #cd3a5a;
+  
+}
