@@ -1,0 +1,125 @@
+.banner-container {
+  background: rgba(229, 84, 115, 0.1);
+  width: 100%;
+  height: 850;
+  display: flex;
+}
+
+.banner-design {
+  padding: 30px 30px 30px 250px;
+}
+
+.banner-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  width: 50%;
+}
+
+.image {
+  width: 635px;
+  height: 500px;
+  margin-right: 240px;
+}
+
+.button {
+  border-radius: 10px;
+  border: none;
+  background: #e55473;
+  padding: 15px 40px;
+  color: white;
+  gap: 10px;
+}
+
+.flower-banner-container {
+  background: rgba(229, 84, 115, 0.1);
+  display: flex;
+  width: 100%;
+  height: 850;
+  margin-top: 50px;
+}
+
+.flower-image {
+  width: 300px;
+  height: 400px;
+  margin-left: 90px;
+}
+
+.flower-container {
+  width: 594px;
+  height: 60px;
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  padding: 30px 30px 30px 200px;
+  margin-top: 100px;
+}
+
+.flower-description {
+  color: rgba(39, 39, 39, 0.6);
+}
+
+.sign-up {
+  border-radius: 10px;
+  border: none;
+  background: #cd3a5a;
+  padding: 15px 40px;
+  color: white;
+  gap: 10px;
+}
+
+.instagram {
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.pera {
+  color: rgba(39, 39, 39, 0.6);
+}
+.f1-images {
+  padding: 10px;
+  height: 250px;
+}
+.f2-images {
+  padding: 10px;
+  height: 250px;
+}
+.f3-images {
+  padding: 10px;
+  height: 250px;
+}
+.f4-images {
+  padding: 10px;
+  height: 250px;
+}
+.bann-flower {
+  margin: 0px 250px;
+}
+
+.four-ban {
+  margin-top: 70px;
+}
+
+.last-banner {
+  background-image: url(./flower-shop-assignment/Asset/Rectangle\ 9.png);
+  width: 800px;
+  height: 250px;
+  margin: 100px 400px;
+  border-radius: 8px;
+}
+.deals{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding-top: 50px;
+
+}
