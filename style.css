@@ -115,64 +115,133 @@
   margin: 100px 400px;
   border-radius: 8px;
 }
-.deals{
-    color: #272727;
-text-align: center;
-font-size: 30px;
-font-weight: 600;
-padding-top: 80px;
-
+.deals {
+  color: #272727;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  padding-top: 80px;
 }
 
-.cupon{
-  color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-family: Lato;
-font-size: 18px;
-font-weight: 400;
-
+.cupon {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
 }
-.last-header{
-  
+.last-header {
 }
-.input-type{
+.input-type {
   width: 180px;
   height: 5px;
-align-items: center;
-border-radius: 8px;
-display: flex;
-
-
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
 }
-.sub{
+.sub {
   margin-left: 10px;
   border-radius: 5px;
   border: none;
-background: #E55473;
-width: 200px;
-height: 40px;
- 
-  
+  background: #e55473;
+  width: 200px;
+  height: 40px;
 }
-.email{
+.email {
   padding-right: 200px;
   margin-left: 200px;
   border-color: #cd3a5a;
-  
 }
-.fshop{
-  color: #E55473;
-font-family: Lato;
-font-size: 48px;
-font-weight: 800;
-
+.fshop {
+  color: #e55473;
+  font-family: Lato;
+  font-size: 48px;
+  font-weight: 800;
 }
-.xshop{
-  color: rgb(248, 242, 242)
+.xshop {
+  color: rgb(248, 242, 242);
 }
-.main-footer{
+.main-footer {
   text-align: center;
   background-color: black;
   color: white;
   margin-bottom: 50px;
+}
+
+.flower-boll1{
+
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  width: 300px;
+  height: 400px;
+
+}
+.flower-boll2{
+
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+  width: 300px;
+  height: 400px;
+
+}
+.flower-boll3{
+
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+  width: 300px;
+  height: 400px;
+
+}
+.img1{
+
+height: 300px;
+width: 200px;
+margin-bottom: 0;
+padding: 50px;
+
+
+}
+.text1{
+
+  color: #272727;
+  
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
+
+
+}
+.color{
+
+ display: flex;
+
+
+ padding-left: 200px;
+ gap: 20px;
+ padding-top: 30px;
+
+}
+.text5{
+
+display: flex;
+padding-left: 245px;
+gap: 150px;
+margin: 10px;
+
+
+}
+
+.Bonus-section{
+  text-align: center;
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.b-pera{
+  color: rgba(39, 39, 39, 0.60);
 }
